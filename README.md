@@ -1,4 +1,4 @@
-### Hi there! I'm Marina, nice to see you here.👋
+### Hi there! I'm Marina, nice to see you here <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
