@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
-- 
+
 <h3> 💻 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -38,8 +38,8 @@
 <h3> 📫 &nbsp;Connect with me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marina-blason-graviz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:marina.blasongraviz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/marina-blason-graviz/">LinkedIn</a>
+<a href="mailto:marina.blasongraviz@gmail.com">Email</a>
 </p>
 
 ⭐️ From [mblason](https://github.com/mblason)
