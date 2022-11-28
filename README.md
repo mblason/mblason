@@ -3,8 +3,8 @@
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 <br/>
 <ul>
-  <li>I’m currently working on <b>rent management website</b></li>
-  <li> I’m currently learning <b>Testing</b></li>
+  <li>I’m currently developing a <b>rent management website</b></li>
+  <li> I’m currently learning <b>testing</b></li>
 </ul>
 
 <!--
