@@ -3,9 +3,8 @@
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 <br/>
 <ul>
-  <li>Pronouns: Sher/Her</li>
-  <li>I’m currently working on **rent management website**</li>
-  <li> I’m currently learning **Testing**</li>
+  <li>I’m currently working on **rent management website.**</li>
+  <li> I’m currently learning **Testing.**</li>
 </ul>
 
 <!--
