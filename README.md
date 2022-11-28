@@ -4,11 +4,13 @@
 <br/>
 <ul>
   <li>Pronouns: Sher/Her</li>
+  <li>I’m currently working on **rent management website**</li>
+  <li> I’m currently learning **Testing**</li>
 </ul>
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning **Testing**
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
@@ -33,7 +35,6 @@
   </li>
   <li>
     <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"></span>
-
   </li>
 </ul>
 <br/>
