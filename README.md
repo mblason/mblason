@@ -3,8 +3,10 @@
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 <br/>
 <ul>
-  <li>I’m currently developing a <b>rent management website</b></li>
-  <li> I’m currently learning <b>testing</b></li>
+  <li><b>My background:</b> I have a BA in Marketing and more than 5 years of experience working in Customer Experience, and Communications at Mercado Libre (unicorn e-commerce in Argentina)</li>
+  <li><b>My motivations:</b> I decided to go deep into the tech world because I'm passionate about being part of the process of developing software that can make people's lives easier</li>
+  <li><b>My career plans:</b> I'm currently focused on finding a job as a Full Stack or Frontend Web Developer where I can participate in the product development process, collaborating and learning as a team, in a company that helps me develop my professional career</li>
+  <li><b>My learning next goals:</b> TypeScript, Testing, React Native, Redux, Flutter</li>
 </ul>
 
 <!--
