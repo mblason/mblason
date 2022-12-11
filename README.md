@@ -1,6 +1,6 @@
 ## Hi there! I'm Marina, nice to have you here <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
-<h3>👨🏻‍💻 &nbsp;About Me</h3>
+<h3>👩🏻‍💻 &nbsp;About Me</h3>
 <br/>
 <ul>
   <li><b>My background:</b> I have a BA in Marketing and more than 5 years of experience working in Customer Experience, and Communications at Mercado Libre (unicorn e-commerce in Argentina)</li>
